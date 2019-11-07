@@ -6,7 +6,7 @@ Basic model is based on this:https://en.wikipedia.org/wiki/Elastic_collision. It
 ## Introduction
 - Every balls have a max collisions limit. Once a ball reach this limit, it disappears. A ball colliding with a ball or reflecting with wall is counted for one collision, called 'bounces'.
 - Everytime when multiple collisions happen simultaneously, I deal with the balls pair-wise.
-- The function of this programm is to keep printing out a report that record every collision events, until there no events gonna happen.
+- The function of this programm is to keep printing out a report that record every collision events, until there are no more events gonna happen.
 
 ## Universe parameters
 - Command line: In command line, there are two parameters, the universe radius, and the max collision.
