@@ -14,7 +14,7 @@ Basic model is based on this:https://en.wikipedia.org/wiki/Elastic_collision. It
 
 That means the universe radius is 120m, and the max collision of a ball is 3 times.
 
-- Input: 9 parameters: mass, radius, x, y, z, vx, vy, vz, name. The position of the centre of a ball is (x,y,z), and the velocity is (vx,vy,vz). Use space to separate different parameters, and use enter to switch line, and input parameters for a new ball.
+- Input: 9 parameters: mass, radius, x, y, z, vx, vy, vz, name. The position of the centre of a ball is (x,y,z), and the velocity is (vx,vy,vz). Use space to separate different parameters, and use enter to switch line, and input parameters for a new ball. When you done entering, press control+D.
 >`5 1 10 10 10 2 2 2 one`
 
 That means, the ball's name is 'one', mass=5, radius=1, position=(10,10,10), velocity(2,2,2).
