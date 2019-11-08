@@ -370,15 +370,4 @@ if __name__=="__main__":
   balls = the_big_bang()
 
   run(balls, wall)
-
-
-
-
-
-
-
-
-
-
-
-
+  
